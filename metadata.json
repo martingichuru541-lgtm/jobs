@@ -1,0 +1,6 @@
+{
+  "name": "KenyaOne Careers — Complete Careers, Recruitment & International Employment Platform",
+  "description": "Connecting Kenyan jobseekers with verified local and international employers, licensed recruitment agencies, government documentation, ATS CV builder, and recruitment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
